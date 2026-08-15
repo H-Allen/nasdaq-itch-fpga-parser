@@ -1,0 +1,19 @@
+# Python env files
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Vivado generated files
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.xpr
+.Xil/
+
+# Reports and temporary output
+build/
+reports/generated/
